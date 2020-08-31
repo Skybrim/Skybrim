@@ -12,11 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skybrim&repo=msi-z390-tomahawk)](https://github.com/skybrim/msi-z390-tomahawk)
+
 -->
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skybrim&repo=practice_leetcode_python)](https://github.com/skybrim/practice_leetcode_python)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skybrim&repo=iOS_plug)](https://github.com/skybrim/iOS_plug)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skybrim&repo=msi-z390-tomahawk)](https://github.com/skybrim/msi-z390-tomahawk)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skybrim&repo=skybrim-macbootstrap)](https://github.com/skybrim/skybrim-macbootstrap)
 
 [![skybrim's github stats](https://github-readme-stats.vercel.app/api?username=skybrim&show_icons=true)](https://github.com/skybrim/github-readme-stats)
